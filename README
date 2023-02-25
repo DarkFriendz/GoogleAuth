@@ -30,7 +30,9 @@
         - pip install google-auth-oauthlib
         - pip install google-auth-httplib2
 
-        - Crie um projeto no Google Cloud Console e ative a API de autenticação do Google. url(https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_512285710737-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251521-kwd-301173107424&utm_term=KW_google%20cloud-ST_Google%20Cloud&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA6hKAMmxTf9-O8lxUSdtVtjWVyzI8BipZyfMhmJ-Vnm5CJXHEYm7fsaAvSaEALw_wcB&gclsrc=aw.ds&hl=pt-br)
+        - Crie um projeto no Google Cloud Console e ative a API de autenticação do Google. 
+        
+        - url(https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_512285710737-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251521-kwd-301173107424&utm_term=KW_google%20cloud-ST_Google%20Cloud&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA6hKAMmxTf9-O8lxUSdtVtjWVyzI8BipZyfMhmJ-Vnm5CJXHEYm7fsaAvSaEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
         - Se caso for usar um banco de dados recomendo utilzar
 
