@@ -4,11 +4,11 @@
 
     -> Tarefas
 
-        1- Criar venv e diretorios (X)
-        2- Criar executavel "main.py" (X)
-        3- Criar uma class para rodar o site (X)
-        4- Configurar class com a parametros do "config.py" (X)
-        5- Criar primeira pagina "home.html" (X)
+        1- Criar venv e diretorios (.)
+        2- Criar executavel "main.py" (.)
+        3- Criar uma class para rodar o site (.)
+        4- Configurar class com a parametros do "config.py" (.)
+        5- Criar primeira pagina "home.html" (.)
         6- Criar o login interno (.)
         7- Adcionar o login via Google Acount (.)
         8- Conseguir passar todos os parametros em uma Session (.)
