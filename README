@@ -1,0 +1,37 @@
+<---------------------------------------------------------------------------------------------->
+
+    Este e um exemplo de site via Login Google 
+
+    -> Tarefas
+
+        1- Criar venv e diretorios (.)
+        2- Criar executavel "main.py" (.)
+        3- Criar uma class para rodar o site (.)
+        4- Configurar class com a parametros do "config.py" (.)
+        5- Criar primeira pagina "home.html" (.)
+        6- Criar o login interno (.)
+        7- Adcionar o login via Google Acount (.)
+        8- Conseguir passar todos os parametros em uma Session (.)
+        9- Criar logout (.)
+
+    -> Explicação
+
+        - Tarefas que estão para ser feitas esta marcadas com (.) as feitas estarão com (X)
+
+        - Este conteudo e para aprendizado mas porfavor reforcem a segurança se for usar em seus sites
+
+    -> Dependências
+
+        - Todos que tiverem pip atrás são para instalar no seu projeto
+
+        - pip install flask
+        - pip install google-auth
+        - pip install google-auth-oauthlib
+        - pip install google-auth-httplib2
+
+        - Se caso for usar um banco de dados recomendo utilzar
+
+        - sqlite3
+
+
+<---------------------------------------------------------------------------------------------->
