@@ -1,5 +1,5 @@
 #Assets
-from flask import Flask
+from flask import Flask, render_template, redirect
 
 #Class Website
 class web():
@@ -10,6 +10,10 @@ class web():
 
     #Run Website
     def run(self, debug:bool=False):
+
+        @self.web.route('/')
+        def index():
+            return render_template('home.html')
 
         #Run
         self.web.run(debug=debug)
