@@ -8,7 +8,11 @@ from google.auth.transport import requests
 class web():
     #Congig Website
     def __init__(self, config:any):
-        pass
+        self.web = Flask(__name__)
+        self.web.secret_key = config['Website']['Secret']
 
+    #Run Website
     def run(self, debug:bool=False):
-        pass
+        
+        #Run
+        self.web.run(debug=debug)

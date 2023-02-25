@@ -6,7 +6,7 @@
 
         1- Criar venv e diretorios (X)
         2- Criar executavel "main.py" (X)
-        3- Criar uma class para rodar o site (.)
+        3- Criar uma class para rodar o site (X)
         4- Configurar class com a parametros do "config.py" (.)
         5- Criar primeira pagina "home.html" (.)
         6- Criar o login interno (.)
