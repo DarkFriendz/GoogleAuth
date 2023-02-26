@@ -1,0 +1,28 @@
+{% extends 'template.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block styles %}{% endblock %}
+
+{% block content %}
+    <h1>Home</h1>
+    <div>
+        <h1>Login</h1>
+        <form action="execute/loginGoogle" method="post">
+            <input type="submit" value="Google">
+        </form>
+        <br>
+        <br>
+        <form action="execute/login" method="post">
+            <input type="email" name="email" id="email">
+            <br>
+            <br>
+            <input type="password" name="pwd" id="pwd">
+            <br>
+            <br>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+{% endblock %}
+
+{% block scripts %}{% endblock %}
